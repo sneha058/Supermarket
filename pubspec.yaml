@@ -63,6 +63,20 @@ flutter:
     - asset/SupermarketRun_coloured.png
     - asset/SupermarketRun_white.png
     - asset/cart_bgrem.png
+    - asset/Strawberry.png
+    - asset/Spices.png
+    - asset/Pineapple (1).png
+    - asset/Peach.png
+    - asset/pappaya.png
+    - asset/Orange.png
+    - asset/Noodles.png
+    - asset/Lantles.png
+    - asset/Jam.png
+    - asset/Drinks.png
+    - asset/chocolates.png
+    - asset/Chips.png
+    - asset/Biscuits.png
+    - asset/apple 1.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
